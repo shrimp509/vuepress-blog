@@ -10,5 +10,10 @@
   "scripts": {
     "dev": "vuepress dev docs",
     "build": "vuepress build docs"
+  },
+  "homepage": "https://github.com/shrimp509/vuepress-blog/",
+  "dependencies": {
+    "@vuepress/theme-blog": "^2.3.3",
+    "vuepress": "^1.8.2"
   }
 }
